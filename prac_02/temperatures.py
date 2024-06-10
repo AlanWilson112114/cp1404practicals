@@ -1,5 +1,5 @@
 def main():
-    """Temperature conversion between Celsius and Fahrenheit"""
+    """Temperature conversion between Celsius (C) and Fahrenheit (F)"""
     menu = """C - Convert Celsius to Fahrenheit
     F - Convert Fahrenheit to Celsius
     Q - Quit"""

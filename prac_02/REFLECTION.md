@@ -13,7 +13,7 @@ I have scheduled to watch them in the evening, at home, for about 1 hour each se
 
 ## What are you doing well in the subject so far that you will keep doing?
 
-participateing in class and watching videos with trying to improving the skills
+participateing in class and watching videos with trying to improve and develop the skills
 
 ## What do you need to stop or change in your work for this subject overall so far?
 

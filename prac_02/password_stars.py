@@ -1,12 +1,12 @@
 def main():
-    "Obtain a password that meets the minimum length requirements and display it as asterisks."
+    """Obtain a password that meets the minimum length requirements and display it as asterisks."""
     minimum_length = 3
     password = get_password(minimum_length)
     print_asterisks(password)
 
 
 def print_asterisks(password):
-    "Display a number of asterisks corresponding to the length of the input string."
+    """Display a number of asterisks corresponding to the length of the input string."""
     print(len(password) * "*")
 
 

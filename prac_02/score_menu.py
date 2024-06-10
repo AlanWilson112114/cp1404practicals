@@ -1,5 +1,5 @@
 def main():
-    """Display user interface to acquire valid score, print the stars"""
+    """Display user interface to get valid score, print the stars"""
     menu = """(G)et a valid score 
 (P)rint result 
 (S)how stars 

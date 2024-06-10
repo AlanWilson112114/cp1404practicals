@@ -2,7 +2,7 @@ import random
 
 
 def main():
-    "Obtain a valid user score, then display both the user's performance and the performance of a random score."
+    """Obtain a valid user score, then display both the user's performance and the performance of a random score."""
     score = float(input("Enter score: "))
     while score < 0 or score > 100:
         print("Invalid score")
