@@ -42,7 +42,7 @@ def main():
     # Save all guitars to the file
     with open(FILENAME, "w", newline='') as out_file:
         writer = csv.writer(out_file)
-        writer.writerow(["Name", "Year", "Cost"])  # Write header
+        writer.writerow(["Name", "Year", "Cost"])  # Write the header
         for guitar in guitars:
             writer.writerow([guitar.name, guitar.year, guitar.cost])
 
