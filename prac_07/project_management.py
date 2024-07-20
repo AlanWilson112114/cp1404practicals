@@ -14,7 +14,7 @@ MENU_PROMPT = """- (L)oad projects
 
 
 def main():
-    """Main function to manage projects through a text-based menu"""
+    """Main function to manage projects through a text-based menu."""
     projects = load_projects()
     choice = input(MENU_PROMPT).lower()
     while choice != "q":

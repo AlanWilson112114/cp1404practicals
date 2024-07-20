@@ -18,7 +18,7 @@ class Project:
                 f"cost estimate: ${self.estimated_cost:,.2f}, completion: {self.completion_percentage}%")
 
     def to_line(self):
-        """Converts the Project object to a tab-delimited string for file storage"""
+        """Converts the Project object to a tab-delimited string for file storage."""
         return (f"{self.name}\t{self.start_date.strftime('%d/%m/%Y')}\t{self.priority}\t"
                 f"${self.estimated_cost:,.2f}\t{self.completion_percentage}")
 
