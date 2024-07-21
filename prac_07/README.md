@@ -10,8 +10,8 @@ subject.Each folder corresponds to a different practical or assignment, showcasi
 ## Lessons Learned About Clean Code
 
 - **Consistent Naming Conventions:** Using clear and descriptive names for variables, functions, and classes helps in
-  making the code more readable and maintainable. Consistent naming also reduces ambiguity and makes the code easier to
-  understand for others.
+  making the code more readable and maintainable. Using consistent naming also reduces confusion and makes the code
+  easier to understand for others.
 
 - **Modular Design:** Breaking down code into smaller, well-defined functions or methods adheres to the Single
   Responsibility Principle. Each function or method should perform a single task, which makes the code easier to test,

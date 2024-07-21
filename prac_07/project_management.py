@@ -1,3 +1,9 @@
+"""
+CP1404 Practical 07 - Alan Wilson
+Time estimate: 2 hours
+Actual Time: >2 hours
+"""
+
 import datetime
 from project import Project
 
