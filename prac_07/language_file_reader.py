@@ -37,7 +37,7 @@ def main():
 
 # using_csv()
 def using_csv():
-    """Language file reader version using the csv module."""
+    """Language file reader version using the csv module"""
     with open('languages.csv', 'r', newline='') as in_file:
         in_file.readline()  # Skip the header
         reader = csv.reader(in_file)

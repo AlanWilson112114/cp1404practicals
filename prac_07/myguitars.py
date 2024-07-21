@@ -1,7 +1,7 @@
 import csv
 from guitar import Guitar
 
-FILENAME = "../../prac7/guitars.csv"
+FILENAME = "guitars.csv"
 
 
 def main():

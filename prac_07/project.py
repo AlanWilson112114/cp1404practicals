@@ -2,7 +2,7 @@ import datetime
 
 
 class Project:
-    """Represents a project with essential details."""
+    """Represents a project with essential details"""
 
     def __init__(self, name, start_date, priority, estimated_cost, completion_percentage):
         """Initializes a Project object with the given attributes."""

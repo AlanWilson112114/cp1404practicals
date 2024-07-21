@@ -1,7 +1,7 @@
 import datetime
 from project import Project
 
-FILENAME = "../../prac7/projects.txt"
+FILENAME = "projects.txt"
 
 MENU_PROMPT = """- (L)oad projects  
 - (S)ave projects  

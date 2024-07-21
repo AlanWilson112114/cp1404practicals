@@ -5,7 +5,7 @@ Programming Language class with tests.
 
 
 class ProgrammingLanguage:
-    """Represent information about a programming language."""
+    """Represent information about a programming language"""
 
     def __init__(self, name, typing, reflection, pointer_arithmetic, year):
         """Construct a ProgrammingLanguage from the given values."""

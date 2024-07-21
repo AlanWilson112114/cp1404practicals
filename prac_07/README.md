@@ -3,7 +3,7 @@
 ## Introduction
 
 Welcome to my practicals repository! This repository contains code and assignments from various practicals in the CP1404
-subject. Each folder corresponds to a different practical or assignment, showcasing different aspects of programming.
+subject.Each folder corresponds to a different practical or assignment, showcasing different aspects of programming.
 
 **Author:** Alan Wilson
 
