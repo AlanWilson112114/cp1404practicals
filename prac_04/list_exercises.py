@@ -1,6 +1,7 @@
 """
  CP1404/CP5632 Practical 04
  """
+
 # 1. Basic list operations
 # Create an empty list to store user-input numbers
 numbers = []
