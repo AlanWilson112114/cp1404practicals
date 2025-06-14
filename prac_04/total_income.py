@@ -3,7 +3,6 @@ CP1404/CP5632 Practical
 Cumulative total income program
 """
 
-
 def main():
     """Display income report for incomes over a given number of months."""
     incomes = []
