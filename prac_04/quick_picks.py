@@ -2,6 +2,7 @@
 CP1404/CP5632 Practical
 Quick pick program
 """
+
 import random
 
 QUICK_PICK_LENGTH = 6
