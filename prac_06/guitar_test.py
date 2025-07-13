@@ -24,5 +24,5 @@ def run_tests():
     print(f"{other.name} is_vintage() - Expected False. Got {other.is_vintage()}")
 
 
-# Call the run_tests() function here, outside of any function definitions
+# Call the run_tests() function here, outside of any function definitions.
 run_tests()
