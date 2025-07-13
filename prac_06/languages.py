@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 Practical
-Programming Language client code
+Programming Language client code.
 """
 from programming_language import ProgrammingLanguage
 
