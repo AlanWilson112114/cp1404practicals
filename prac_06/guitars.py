@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 Practical
-Guitar program.
+Guitar program
 """
 from guitar import Guitar
 
