@@ -23,5 +23,5 @@ can reduce mistakes and write better programs.
 ## What is one request you have or change you suggest for this subject and/or your IT degree overall?
 
 It would be great to have a few more examples or practice problems before each prac,especially for the harder ones.
-
+That would help build more confidence before doing the actual task
 
