@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 Practical
-Basic manual tests for Guitar class
+Basic manual tests for Guitar class.
 """
 from guitar import Guitar
 

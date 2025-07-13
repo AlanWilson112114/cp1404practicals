@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 Practical - Client code to use the Car class
+CP1404/CP5632 Practical - Client code to use the Car class.
 """
 
 from car import Car
