@@ -8,7 +8,7 @@ def repeat_string(s, n):
 
 
 def is_long_word(word, length=5):
-    """Return True if `word` length is at least `length`.
+    """Return True if `word`length is at least `length`.
 
     >>> is_long_word("not")
     False
