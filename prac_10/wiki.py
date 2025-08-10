@@ -13,7 +13,7 @@ def main():
             print("We need a more specific title. Try one of the following, or a new search:")
             print(e.options[:10])  # limit output for readability
         except wikipedia.exceptions.PageError:
-            print(f'Page id "{query}" does not match any pages. Try another id!')
+            print(f'Page id "{query}" does not match any pages.Try another id!')
         except Exception as exc:
             print(f"Unexpected error: {exc}")
         finally:

@@ -3,7 +3,7 @@
 ## Estimates
 
 ### How was your estimate accuracy usually?
-At the start, I usually underestimated how long things would take. Over time, my guesses got better as I understood the tasks more.
+At the start, I usually underestimated how long things would take. Over time,my guesses got better as I understood the tasks more.
 
 ### How did your estimate accuracy improve or change during the course of the subject?
 I learned to think ahead about possible problems and factor in extra time for them, which made my estimates more realistic.
